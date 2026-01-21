@@ -41,7 +41,13 @@ Curious, motivated, and detail-oriented, I am eager to contribute to impactful A
   Orion is a modular Python agentic business assistant scaffold for task orchestration and system integrations.  
 
 - 🔗 [Story-Telling](https://github.com/amenijmai/story-telling)  
-  AI-powered system that turns real-world video into narrated stories and comic strips.  
+  AI-powered system that turns real-world video into narrated stories and comic strips.
+
+- 🔗 [Banking-risk-behavior](https://github.com/amenijmai/banking-risk-behavior).  
+    
+
+
+  
 
 
 ---
