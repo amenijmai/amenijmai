@@ -1,29 +1,65 @@
-# 👩‍💻 Portfolio – IA & Data
+# 👋 Hi, I’m Ameni
 
-## 👋 À propos de moi
-Je suis étudiante ingénieure en Intelligence Artificielle et Data,
-passionnée par l’analyse de données et le machine learning.
-Je suis actuellement à la recherche d’un stage en IA / Data.
+🎓 **Engineering Student in Artificial Intelligence & Data Science**  
+📊 Passionate about data analysis, machine learning, and AI-driven solutions  
+🔍 Currently seeking an **internship in AI / Data**
 
-## 🛠️ Compétences techniques
-- Langages : Python, SQL
-- Librairies : Pandas, NumPy, Scikit-learn
-- Data : Data Analysis, Machine Learning
-- Outils : Git, GitHub, Jupyter Notebook
+---
 
-## 📂 Projets
-### 📊 Analyse de données
-- Analyse exploratoire d’un dataset
-- Outils : Python, Pandas, Matplotlib  
+## ✨ About Me
+I am an engineering student specializing in **Artificial Intelligence and Data Science**, with a strong interest in turning data into actionable insights.  
+I enjoy building **machine learning models**, analyzing data, and continuously improving my technical skills through hands-on projects.
 
+Curious, motivated, and detail-oriented, I am eager to contribute to impactful AI projects.
 
-### 🤖 Machine Learning
-- Modèle de prédiction (classification ou régression)
-- Algorithmes : Random Forest, Logistic Regression  
+---
 
+## 🛠️ Technical Skills
 
-## 🎓 Formation
-- Programme Grande Ecole - Artificial Intelligence & Data Science for Business and Society (aivancity, la Grande Ecole de l’intelligence artificielle et de la data)
+**Programming Languages**  
+- Python, SQL  
+
+**Libraries & Frameworks**  
+- Pandas, NumPy  
+- Scikit-learn  
+- Matplotlib, Seaborn  
+
+**AI & Data**  
+- Data Analysis & Visualization  
+- Machine Learning (Classification & Regression)  
+- Model evaluation & optimization  
+
+**Tools**  
+- Git, GitHub  
+- Jupyter Notebook  
+
+---
+
+## 📁 Projects
+
+**📊 Data Analysis**  
+- Exploratory Data Analysis on real-world datasets  
+- Data cleaning, visualization, and insight generation  
+- Tools: Python, Pandas, Matplotlib  
+
+**🤖 Machine Learning**  
+- Predictive models for classification and regression  
+- Algorithms: Logistic Regression, Random Forest  
+- Model training, evaluation, and improvement  
+
+---
+
+## 🎓 Education
+**Programme Grande École**  
+*Artificial Intelligence & Data Science for Business and Society*  
+**Aivancity – La Grande École de l’Intelligence Artificielle & de la Data**
+
+---
+
 ## 📫 Contact
-- LinkedIn : https://www.linkedin.com/in/ameni-j-7527402a7/
-- Email : neptonameni1@gmail.com 
+- 💼 **LinkedIn:** [Ameni Jlassi](https://www.linkedin.com/in/ameni-j-7527402a7/)
+- 📧 **Email:** neptonameni1@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!
