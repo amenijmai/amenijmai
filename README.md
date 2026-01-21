@@ -37,15 +37,8 @@ Curious, motivated, and detail-oriented, I am eager to contribute to impactful A
 
 ## 📁 Projects
 
-**📊 Data Analysis**  
-- Exploratory Data Analysis on real-world datasets  
-- Data cleaning, visualization, and insight generation  
-- Tools: Python, Pandas, Matplotlib  
-
-**🤖 Machine Learning**  
-- Predictive models for classification and regression  
-- Algorithms: Logistic Regression, Random Forest  
-- Model training, evaluation, and improvement  
+- 🔗 https://github.com/amenijmai/Agentic-AI-for-Business
+  Orion is a modular Python agentic business assistant scaffold for task orchestration and system integrations.
 
 ---
 
@@ -57,7 +50,7 @@ Curious, motivated, and detail-oriented, I am eager to contribute to impactful A
 ---
 
 ## 📫 Contact
-- 💼 **LinkedIn:** [Ameni Jlassi](https://www.linkedin.com/in/ameni-j-7527402a7/)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ameni-j-7527402a7/
 - 📧 **Email:** neptonameni1@gmail.com
 
 ---
